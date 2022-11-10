@@ -1,0 +1,22 @@
+{
+  "name": "expressjstesting",
+  "version": "1.0.0",
+  "description": "Testing Project For express JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qdkhan/expressJsTesting.git"
+  },
+  "author": "Qutbuddin Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qdkhan/expressJsTesting/issues"
+  },
+  "homepage": "https://github.com/qdkhan/expressJsTesting#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
